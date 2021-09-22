@@ -1,0 +1,22 @@
+{
+  "name": "book-a-court",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateaQ/Book-a-court.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateaQ/Book-a-court/issues"
+  },
+  "homepage": "https://github.com/MateaQ/Book-a-court#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
