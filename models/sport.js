@@ -14,9 +14,6 @@ price :{
     type: Number,
     required: true
 },
-imageurls: [],
-currentbookings:[],
-
 type : {
 type: String,
 required: true

@@ -3,6 +3,10 @@ import axios from "axios";
 
 function Homescreen(){
     
+
+const[sports,setsports] =useState([])
+
+
     useEffect(async () => {
 try {
 const data = (await axios.get('/api/sports/getallsports')).data
