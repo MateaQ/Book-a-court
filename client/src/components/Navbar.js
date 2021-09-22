@@ -14,3 +14,4 @@ return(
 
 
 }
+export default Navbar
