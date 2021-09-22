@@ -13,8 +13,8 @@ try{
 return res.json({sports})
 
 }catch (error){
-    return res.json ({message: error})
+    return res.status(400).json({message: error})
 
 }
 });
-module.exports =router;
+module.exports = router;
