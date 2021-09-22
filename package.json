@@ -23,5 +23,5 @@
     "nodemon": "^2.0.12",
     "router": "^1.3.5"
   },
-  "proxy" : "http://localhost:5013"
+  "proxy": "http://localhost:5013"
 }
