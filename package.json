@@ -18,6 +18,8 @@
   "homepage": "https://github.com/MateaQ/Book-a-court#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "mongose": "^0.0.2-security",
     "nodemon": "^2.0.12"
   }
 }
