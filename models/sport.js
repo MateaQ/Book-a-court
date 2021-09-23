@@ -36,10 +36,10 @@ required: true
 
 }, {
     timestamps: true,
-}
+}, {collection: 'sport'});
 
 
-)
+
 
 const sportModel =mongoose.model('sports', SportSchema)
 
